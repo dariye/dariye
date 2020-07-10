@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Weekend vibe
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://open.spotify.com/embed/playlist/1Sj2IzSfgTYmHjFg8xRzLQ" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
