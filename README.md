@@ -1,6 +1,6 @@
-<img  src="https://github-readme-stats.vercel.app/api?username=dariye&show_icons=true&icon_color=ffffff&bg_color=000000&hide_title=true" alt="github stats for dariye">
+<!-- <img  src="https://github-readme-stats.vercel.app/api?username=dariye&show_icons=true&icon_color=ffffff&bg_color=000000&hide_title=true" alt="github stats for dariye"> -->
 
-### Hi there 👋
+Be. ☯
 
 <!--
 **dariye/dariye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
